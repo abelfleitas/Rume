@@ -1,8 +1,9 @@
 # Rume
 Cliente FTP - Codeigniter 3
 
-<p>Conectar a algún servidor FTP</p>
-<a href="https://drive.google.com/file/d/1ngOLEk0cs-z-QgxGluzEVaGcS4FDjxDJ/view?usp=sharing">Descargar FileZilla Server</a
+<p>Conectar a algún servidor FTP como 
+<a href="https://drive.google.com/file/d/1ngOLEk0cs-z-QgxGluzEVaGcS4FDjxDJ/view?usp=sharing">FileZilla Server</a 
+</p>	
 
 <h3>Lista de funcionalidades</h3>
 
