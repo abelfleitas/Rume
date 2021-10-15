@@ -2,7 +2,7 @@
 Cliente FTP - Codeigniter 3
 
 <p>Conectar a algún servidor FTP como 
-<a href="https://drive.google.com/file/d/1ngOLEk0cs-z-QgxGluzEVaGcS4FDjxDJ/view?usp=sharing">FileZilla Server</a 
+<a href="https://drive.google.com/file/d/1ngOLEk0cs-z-QgxGluzEVaGcS4FDjxDJ/view?usp=sharing">FileZilla Server</a> u otro 
 </p>	
 
 <h3>Lista de funcionalidades</h3>
