@@ -6,6 +6,16 @@ Cliente FTP - Codeigniter 3
 </p>	
 
 <a href="http://repositorioxml.atwebpages.com/">Demo</a><br/>
+<table>
+ <tr>
+  <td>User:</td>
+  <td>admin</td>
+ </tr>
+ <tr>
+  <td>Contraseña:</td>
+  <td>Admin</td>
+ </tr>
+</table>
 <a href="http://repositorioxml.atwebpages.com/user_guide">Guía Rápida</a>
 
 <h3>Lista de funcionalidades</h3>
